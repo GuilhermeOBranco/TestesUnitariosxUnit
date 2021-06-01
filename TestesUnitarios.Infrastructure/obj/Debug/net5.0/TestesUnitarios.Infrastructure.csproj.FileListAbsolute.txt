@@ -1,0 +1,15 @@
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\bin\Debug\net5.0\TestesUnitarios.Infrastructure.deps.json
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\bin\Debug\net5.0\TestesUnitarios.Infrastructure.dll
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\bin\Debug\net5.0\ref\TestesUnitarios.Infrastructure.dll
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\bin\Debug\net5.0\TestesUnitarios.Infrastructure.pdb
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\obj\Debug\net5.0\TestesUnitarios.Infrastructure.csprojAssemblyReference.cache
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\obj\Debug\net5.0\TestesUnitarios.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\obj\Debug\net5.0\TestesUnitarios.Infrastructure.AssemblyInfoInputs.cache
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\obj\Debug\net5.0\TestesUnitarios.Infrastructure.AssemblyInfo.cs
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\obj\Debug\net5.0\TestesUnitarios.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\obj\Debug\net5.0\TestesUnitarios.Infrastructure.dll
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\obj\Debug\net5.0\ref\TestesUnitarios.Infrastructure.dll
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\obj\Debug\net5.0\TestesUnitarios.Infrastructure.pdb
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\bin\Debug\net5.0\TestesUnitarios.Models.dll
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\bin\Debug\net5.0\TestesUnitarios.Models.pdb
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Infrastructure\obj\Debug\net5.0\TestesUnitarios.Infrastructure.csproj.CopyComplete

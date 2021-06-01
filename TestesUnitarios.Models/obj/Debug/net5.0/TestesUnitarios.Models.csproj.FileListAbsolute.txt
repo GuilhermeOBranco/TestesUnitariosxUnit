@@ -1,0 +1,12 @@
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Models\bin\Debug\net5.0\TestesUnitarios.Models.deps.json
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Models\bin\Debug\net5.0\TestesUnitarios.Models.dll
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Models\bin\Debug\net5.0\ref\TestesUnitarios.Models.dll
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Models\bin\Debug\net5.0\TestesUnitarios.Models.pdb
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Models\obj\Debug\net5.0\TestesUnitarios.Models.csprojAssemblyReference.cache
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Models\obj\Debug\net5.0\TestesUnitarios.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Models\obj\Debug\net5.0\TestesUnitarios.Models.AssemblyInfoInputs.cache
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Models\obj\Debug\net5.0\TestesUnitarios.Models.AssemblyInfo.cs
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Models\obj\Debug\net5.0\TestesUnitarios.Models.csproj.CoreCompileInputs.cache
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Models\obj\Debug\net5.0\TestesUnitarios.Models.dll
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Models\obj\Debug\net5.0\ref\TestesUnitarios.Models.dll
+D:\Projetos\TestesUnitariosXUnit\TestesUnitarios.Models\obj\Debug\net5.0\TestesUnitarios.Models.pdb
